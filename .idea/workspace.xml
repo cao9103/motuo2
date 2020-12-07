@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b75a5ed6-310a-47f3-8d36-df109aa39509" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WANBANG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WANBANG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/WanBangApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/WanBangApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/DictExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/DictExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/TeamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/TeamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/bean/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/dao/TeamDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/dao/TeamDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/autogenerate/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/bean/vo/UserLoginVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/bean/vo/UserLoginVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/config/exception/ExceptionConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/config/exception/ExceptionConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/controller/SystemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/controller/SystemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/utils/TeamProfitTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/utils/TeamProfitTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/utils/TokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/shitouren/core/utils/TokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/config/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/config/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/DictDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/mapper/DictDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/TeamDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/mapper/TeamDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/mapper/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/AHL.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../target/AHL.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/AHL.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../target/AHL.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/WanBangApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/WanBangApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/autogenerate/bean/UserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/bean/vo/UserLoginVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/bean/vo/UserLoginVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/config/exception/ExceptionConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/config/exception/ExceptionConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/controller/SystemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/controller/SystemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/shitouren/core/utils/TeamProfitTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/shitouren/core/utils/TeamProfitTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/config/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/config/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/mapper/DictDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/mapper/DictDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/mapper/TeamDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/mapper/TeamDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/mapper/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/mapper/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\ABC\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jP5iOaGzN60mrlJ5I0JP4yn6di" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shitouren.core.controller" />
+      <recent name="com.shitouren.core.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitProject\jiufang\src\main\java\com\shitouren\core\utils" />
+      <recent name="D:\GitProject\jiufang\src\main\java\com\shitouren\core\service" />
+      <recent name="E:\000SecondogData\JIUFANG\src\main\java\com\shitouren\core\service" />
+      <recent name="D:\GitProject\jiufang\src\main\java\com\shitouren\core\autogenerate\dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShuiGuoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="DOUYIN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shitouren.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shitouren.core.ShuiGuoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShuiGuoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75a5ed6-310a-47f3-8d36-df109aa39509" name="Default Changelist" comment="" />
+      <created>1603693012361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603693012361</updated>
+      <workItem from="1603693019918" duration="19677000" />
+      <workItem from="1603768026198" duration="1501000" />
+      <workItem from="1603769626575" duration="1230000" />
+      <workItem from="1603770870362" duration="99999000" />
+      <workItem from="1604371155461" duration="3995000" />
+      <workItem from="1604385749995" duration="346000" />
+      <workItem from="1604386102076" duration="14175000" />
+      <workItem from="1604371155461" duration="2848000" />
+      <workItem from="1604386813621" duration="4702000" />
+      <workItem from="1604889910161" duration="34470000" />
+      <workItem from="1605492084762" duration="4450000" />
+      <workItem from="1605593291876" duration="58765000" />
+      <workItem from="1606129456974" duration="69663000" />
+      <workItem from="1606377948239" duration="48932000" />
+      <workItem from="1606875710971" duration="3156000" />
+      <workItem from="1606972971464" duration="1671000" />
+      <workItem from="1607051170633" duration="4495000" />
+      <workItem from="1607310978173" duration="7174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607066192039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607066192039" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1606454460533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606454460533" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607312220044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607312220044" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607065734767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607065734767" />
+    <state width="914" height="418" key="GridCell.Tab.0.bottom" timestamp="1607328176860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607328176860" />
+    <state width="914" height="418" key="GridCell.Tab.0.center" timestamp="1607328176860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607328176860" />
+    <state width="914" height="418" key="GridCell.Tab.0.left" timestamp="1607328176860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607328176860" />
+    <state width="914" height="418" key="GridCell.Tab.0.right" timestamp="1607328176860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607328176860" />
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom" timestamp="1607326053398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607326053398" />
+    <state width="1877" height="419" key="GridCell.Tab.1.center" timestamp="1607326053398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="419" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607326053398" />
+    <state width="1877" height="419" key="GridCell.Tab.1.left" timestamp="1607326053398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="419" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607326053398" />
+    <state width="1877" height="419" key="GridCell.Tab.1.right" timestamp="1607326053398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="419" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607326053398" />
+    <state width="1877" height="195" key="GridCell.Tab.2.bottom" timestamp="1606638802454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606638802454" />
+    <state width="1877" height="195" key="GridCell.Tab.2.center" timestamp="1606638802454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606638802454" />
+    <state width="1877" height="195" key="GridCell.Tab.2.left" timestamp="1606638802454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606638802454" />
+    <state width="1877" height="195" key="GridCell.Tab.2.right" timestamp="1606638802454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606638802454" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1603872948666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603872948666" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607311188513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607311188513" />
+    <state x="994" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605779651684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="994" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605779651684" />
+    <state x="1023" y="148" width="664" height="556" key="find.popup" timestamp="1607312624340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1023" y="148" width="664" height="556" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607312624340" />
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1605839454534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605839454534" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1604385911754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603793771415" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607312036479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607312036479" />
+  </component>
+</project>
